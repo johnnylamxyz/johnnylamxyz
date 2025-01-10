@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I am a statistics student at Brigham Young University. Aside from classes, I'm working on a research project on methods for solving finite-state semi-Markov processes. 
 <!--
 **johnnylamxyz/johnnylamxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
